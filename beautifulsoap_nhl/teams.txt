@@ -1,0 +1,582 @@
+Boston Bruins , 44
+Buffalo Sabres , 31
+Calgary Flames , 46
+Chicago Blackhawks , 49
+Detroit Red Wings , 34
+Edmonton Oilers , 37
+Hartford Whalers , 31
+Los Angeles Kings , 46
+Minnesota North Stars , 27
+Montreal Canadiens , 39
+New Jersey Devils , 32
+New York Islanders , 25
+New York Rangers , 36
+Philadelphia Flyers , 33
+Pittsburgh Penguins , 41
+Quebec Nordiques , 16
+St. Louis Blues , 47
+Toronto Maple Leafs , 23
+Vancouver Canucks , 28
+Washington Capitals , 37
+Winnipeg Jets , 26
+Boston Bruins , 36
+Buffalo Sabres , 31
+Calgary Flames , 31
+Chicago Blackhawks , 36
+Detroit Red Wings , 43
+Edmonton Oilers , 36
+Hartford Whalers , 26
+Los Angeles Kings , 35
+Minnesota North Stars , 32
+Montreal Canadiens , 41
+New Jersey Devils , 38
+New York Islanders , 34
+New York Rangers , 50
+Philadelphia Flyers , 32
+Pittsburgh Penguins , 39
+Quebec Nordiques , 20
+San Jose Sharks , 17
+St. Louis Blues , 36
+Toronto Maple Leafs , 30
+Vancouver Canucks , 42
+Washington Capitals , 45
+Winnipeg Jets , 33
+Boston Bruins , 51
+Buffalo Sabres , 38
+Calgary Flames , 43
+Chicago Blackhawks , 47
+Detroit Red Wings , 47
+Edmonton Oilers , 26
+Hartford Whalers , 26
+Los Angeles Kings , 39
+Minnesota North Stars , 36
+Montreal Canadiens , 48
+New Jersey Devils , 40
+New York Islanders , 40
+New York Rangers , 34
+Ottawa Senators , 10
+Philadelphia Flyers , 36
+Pittsburgh Penguins , 56
+Quebec Nordiques , 47
+San Jose Sharks , 11
+St. Louis Blues , 37
+Tampa Bay Lightning , 23
+Toronto Maple Leafs , 44
+Vancouver Canucks , 46
+Washington Capitals , 43
+Winnipeg Jets , 40
+Mighty Ducks of Anaheim , 33
+Boston Bruins , 42
+Buffalo Sabres , 43
+Calgary Flames , 42
+Chicago Blackhawks , 39
+Dallas Stars , 42
+Detroit Red Wings , 46
+Edmonton Oilers , 25
+Florida Panthers , 33
+Hartford Whalers , 27
+Los Angeles Kings , 27
+Montreal Canadiens , 41
+New Jersey Devils , 47
+New York Islanders , 36
+New York Rangers , 52
+Ottawa Senators , 14
+Philadelphia Flyers , 35
+Pittsburgh Penguins , 44
+Quebec Nordiques , 34
+San Jose Sharks , 33
+St. Louis Blues , 40
+Tampa Bay Lightning , 30
+Toronto Maple Leafs , 43
+Vancouver Canucks , 41
+Washington Capitals , 39
+Winnipeg Jets , 24
+Mighty Ducks of Anaheim , 16
+Boston Bruins , 27
+Buffalo Sabres , 22
+Calgary Flames , 24
+Chicago Blackhawks , 24
+Dallas Stars , 17
+Detroit Red Wings , 33
+Edmonton Oilers , 17
+Florida Panthers , 20
+Hartford Whalers , 19
+Los Angeles Kings , 16
+Montreal Canadiens , 18
+New Jersey Devils , 22
+New York Islanders , 15
+New York Rangers , 22
+Ottawa Senators , 9
+Philadelphia Flyers , 28
+Pittsburgh Penguins , 29
+Quebec Nordiques , 30
+San Jose Sharks , 19
+St. Louis Blues , 28
+Tampa Bay Lightning , 17
+Toronto Maple Leafs , 21
+Vancouver Canucks , 18
+Washington Capitals , 22
+Winnipeg Jets , 16
+Mighty Ducks of Anaheim , 35
+Boston Bruins , 40
+Buffalo Sabres , 33
+Calgary Flames , 34
+Chicago Blackhawks , 40
+Colorado Avalanche , 47
+Dallas Stars , 26
+Detroit Red Wings , 62
+Edmonton Oilers , 30
+Florida Panthers , 41
+Hartford Whalers , 34
+Los Angeles Kings , 24
+Montreal Canadiens , 40
+New Jersey Devils , 37
+New York Islanders , 22
+New York Rangers , 41
+Ottawa Senators , 18
+Philadelphia Flyers , 45
+Pittsburgh Penguins , 49
+San Jose Sharks , 20
+St. Louis Blues , 32
+Tampa Bay Lightning , 38
+Toronto Maple Leafs , 34
+Vancouver Canucks , 32
+Washington Capitals , 39
+Winnipeg Jets , 36
+Mighty Ducks of Anaheim , 36
+Boston Bruins , 26
+Buffalo Sabres , 40
+Calgary Flames , 32
+Chicago Blackhawks , 34
+Colorado Avalanche , 49
+Dallas Stars , 48
+Detroit Red Wings , 38
+Edmonton Oilers , 36
+Florida Panthers , 35
+Hartford Whalers , 32
+Los Angeles Kings , 28
+Montreal Canadiens , 31
+New Jersey Devils , 45
+New York Islanders , 29
+New York Rangers , 38
+Ottawa Senators , 31
+Philadelphia Flyers , 45
+Phoenix Coyotes , 38
+Pittsburgh Penguins , 38
+San Jose Sharks , 27
+St. Louis Blues , 36
+Tampa Bay Lightning , 32
+Toronto Maple Leafs , 30
+Vancouver Canucks , 35
+Washington Capitals , 33
+Mighty Ducks of Anaheim , 26
+Boston Bruins , 39
+Buffalo Sabres , 36
+Calgary Flames , 26
+Carolina Hurricanes , 33
+Chicago Blackhawks , 30
+Colorado Avalanche , 39
+Dallas Stars , 49
+Detroit Red Wings , 44
+Edmonton Oilers , 35
+Florida Panthers , 24
+Los Angeles Kings , 38
+Montreal Canadiens , 37
+New Jersey Devils , 48
+New York Islanders , 30
+New York Rangers , 25
+Ottawa Senators , 34
+Philadelphia Flyers , 42
+Phoenix Coyotes , 35
+Pittsburgh Penguins , 40
+San Jose Sharks , 34
+St. Louis Blues , 45
+Tampa Bay Lightning , 17
+Toronto Maple Leafs , 30
+Vancouver Canucks , 25
+Washington Capitals , 40
+Mighty Ducks of Anaheim , 35
+Boston Bruins , 39
+Buffalo Sabres , 37
+Calgary Flames , 30
+Carolina Hurricanes , 34
+Chicago Blackhawks , 29
+Colorado Avalanche , 44
+Dallas Stars , 51
+Detroit Red Wings , 43
+Edmonton Oilers , 33
+Florida Panthers , 30
+Los Angeles Kings , 32
+Montreal Canadiens , 32
+Nashville Predators , 28
+New Jersey Devils , 47
+New York Islanders , 24
+New York Rangers , 33
+Ottawa Senators , 44
+Philadelphia Flyers , 37
+Phoenix Coyotes , 39
+Pittsburgh Penguins , 38
+San Jose Sharks , 31
+St. Louis Blues , 37
+Tampa Bay Lightning , 19
+Toronto Maple Leafs , 45
+Vancouver Canucks , 23
+Washington Capitals , 31
+Mighty Ducks of Anaheim , 34
+Atlanta Thrashers , 14
+Boston Bruins , 24
+Buffalo Sabres , 35
+Calgary Flames , 31
+Carolina Hurricanes , 37
+Chicago Blackhawks , 33
+Colorado Avalanche , 42
+Dallas Stars , 43
+Detroit Red Wings , 48
+Edmonton Oilers , 32
+Florida Panthers , 43
+Los Angeles Kings , 39
+Montreal Canadiens , 35
+Nashville Predators , 28
+New Jersey Devils , 45
+New York Islanders , 24
+New York Rangers , 29
+Ottawa Senators , 41
+Philadelphia Flyers , 45
+Phoenix Coyotes , 39
+Pittsburgh Penguins , 37
+San Jose Sharks , 35
+St. Louis Blues , 51
+Tampa Bay Lightning , 19
+Toronto Maple Leafs , 45
+Vancouver Canucks , 30
+Washington Capitals , 44
+Mighty Ducks of Anaheim , 25
+Atlanta Thrashers , 23
+Boston Bruins , 36
+Buffalo Sabres , 46
+Calgary Flames , 27
+Carolina Hurricanes , 38
+Columbus Blue Jackets , 28
+Chicago Blackhawks , 29
+Colorado Avalanche , 52
+Dallas Stars , 48
+Detroit Red Wings , 49
+Edmonton Oilers , 39
+Florida Panthers , 22
+Los Angeles Kings , 38
+Minnesota Wild , 25
+Montreal Canadiens , 28
+Nashville Predators , 34
+New Jersey Devils , 48
+New York Islanders , 21
+New York Rangers , 33
+Ottawa Senators , 48
+Philadelphia Flyers , 43
+Phoenix Coyotes , 35
+Pittsburgh Penguins , 42
+San Jose Sharks , 40
+St. Louis Blues , 43
+Tampa Bay Lightning , 24
+Toronto Maple Leafs , 37
+Vancouver Canucks , 36
+Washington Capitals , 41
+Mighty Ducks of Anaheim , 29
+Atlanta Thrashers , 19
+Boston Bruins , 43
+Buffalo Sabres , 35
+Calgary Flames , 32
+Carolina Hurricanes , 35
+Columbus Blue Jackets , 22
+Chicago Blackhawks , 41
+Colorado Avalanche , 45
+Dallas Stars , 36
+Detroit Red Wings , 51
+Edmonton Oilers , 38
+Florida Panthers , 22
+Los Angeles Kings , 40
+Minnesota Wild , 26
+Montreal Canadiens , 36
+Nashville Predators , 28
+New Jersey Devils , 41
+New York Islanders , 42
+New York Rangers , 36
+Ottawa Senators , 39
+Philadelphia Flyers , 42
+Phoenix Coyotes , 40
+Pittsburgh Penguins , 28
+San Jose Sharks , 44
+St. Louis Blues , 43
+Tampa Bay Lightning , 27
+Toronto Maple Leafs , 43
+Vancouver Canucks , 42
+Washington Capitals , 36
+Mighty Ducks of Anaheim , 40
+Atlanta Thrashers , 31
+Boston Bruins , 36
+Buffalo Sabres , 27
+Calgary Flames , 29
+Carolina Hurricanes , 22
+Columbus Blue Jackets , 29
+Chicago Blackhawks , 30
+Colorado Avalanche , 42
+Dallas Stars , 46
+Detroit Red Wings , 48
+Edmonton Oilers , 36
+Florida Panthers , 24
+Los Angeles Kings , 33
+Minnesota Wild , 42
+Montreal Canadiens , 30
+Nashville Predators , 27
+New Jersey Devils , 46
+New York Islanders , 35
+New York Rangers , 32
+Ottawa Senators , 52
+Philadelphia Flyers , 45
+Phoenix Coyotes , 31
+Pittsburgh Penguins , 27
+San Jose Sharks , 28
+St. Louis Blues , 41
+Tampa Bay Lightning , 36
+Toronto Maple Leafs , 44
+Vancouver Canucks , 45
+Washington Capitals , 39
+Mighty Ducks of Anaheim , 29
+Atlanta Thrashers , 33
+Boston Bruins , 41
+Buffalo Sabres , 37
+Calgary Flames , 42
+Carolina Hurricanes , 28
+Columbus Blue Jackets , 25
+Chicago Blackhawks , 20
+Colorado Avalanche , 40
+Dallas Stars , 41
+Detroit Red Wings , 48
+Edmonton Oilers , 36
+Florida Panthers , 28
+Los Angeles Kings , 28
+Minnesota Wild , 30
+Montreal Canadiens , 41
+Nashville Predators , 38
+New Jersey Devils , 43
+New York Islanders , 38
+New York Rangers , 27
+Ottawa Senators , 43
+Philadelphia Flyers , 40
+Phoenix Coyotes , 22
+Pittsburgh Penguins , 23
+San Jose Sharks , 43
+St. Louis Blues , 39
+Tampa Bay Lightning , 46
+Toronto Maple Leafs , 45
+Vancouver Canucks , 43
+Washington Capitals , 23
+Mighty Ducks of Anaheim , 43
+Atlanta Thrashers , 41
+Boston Bruins , 29
+Buffalo Sabres , 52
+Calgary Flames , 46
+Carolina Hurricanes , 52
+Columbus Blue Jackets , 35
+Chicago Blackhawks , 26
+Colorado Avalanche , 43
+Dallas Stars , 53
+Detroit Red Wings , 58
+Edmonton Oilers , 41
+Florida Panthers , 37
+Los Angeles Kings , 42
+Minnesota Wild , 38
+Montreal Canadiens , 42
+Nashville Predators , 49
+New Jersey Devils , 46
+New York Islanders , 36
+New York Rangers , 44
+Ottawa Senators , 52
+Philadelphia Flyers , 45
+Phoenix Coyotes , 38
+Pittsburgh Penguins , 22
+San Jose Sharks , 44
+St. Louis Blues , 21
+Tampa Bay Lightning , 43
+Toronto Maple Leafs , 41
+Vancouver Canucks , 42
+Washington Capitals , 29
+Anaheim Ducks , 48
+Atlanta Thrashers , 43
+Boston Bruins , 35
+Buffalo Sabres , 53
+Calgary Flames , 43
+Carolina Hurricanes , 40
+Columbus Blue Jackets , 33
+Chicago Blackhawks , 31
+Colorado Avalanche , 44
+Dallas Stars , 50
+Detroit Red Wings , 50
+Edmonton Oilers , 32
+Florida Panthers , 35
+Los Angeles Kings , 27
+Minnesota Wild , 48
+Montreal Canadiens , 42
+Nashville Predators , 51
+New Jersey Devils , 49
+New York Islanders , 40
+New York Rangers , 42
+Ottawa Senators , 48
+Philadelphia Flyers , 22
+Phoenix Coyotes , 31
+Pittsburgh Penguins , 47
+San Jose Sharks , 51
+St. Louis Blues , 34
+Tampa Bay Lightning , 44
+Toronto Maple Leafs , 40
+Vancouver Canucks , 49
+Washington Capitals , 28
+Anaheim Ducks , 47
+Atlanta Thrashers , 34
+Boston Bruins , 41
+Buffalo Sabres , 39
+Calgary Flames , 42
+Carolina Hurricanes , 43
+Columbus Blue Jackets , 34
+Chicago Blackhawks , 40
+Colorado Avalanche , 44
+Dallas Stars , 45
+Detroit Red Wings , 54
+Edmonton Oilers , 41
+Florida Panthers , 38
+Los Angeles Kings , 32
+Minnesota Wild , 44
+Montreal Canadiens , 47
+Nashville Predators , 41
+New Jersey Devils , 46
+New York Islanders , 35
+New York Rangers , 42
+Ottawa Senators , 43
+Philadelphia Flyers , 42
+Phoenix Coyotes , 38
+Pittsburgh Penguins , 47
+San Jose Sharks , 49
+St. Louis Blues , 33
+Tampa Bay Lightning , 31
+Toronto Maple Leafs , 36
+Vancouver Canucks , 39
+Washington Capitals , 43
+Anaheim Ducks , 42
+Atlanta Thrashers , 35
+Boston Bruins , 53
+Buffalo Sabres , 41
+Calgary Flames , 46
+Carolina Hurricanes , 45
+Columbus Blue Jackets , 41
+Chicago Blackhawks , 46
+Colorado Avalanche , 32
+Dallas Stars , 36
+Detroit Red Wings , 51
+Edmonton Oilers , 38
+Florida Panthers , 41
+Los Angeles Kings , 34
+Minnesota Wild , 40
+Montreal Canadiens , 41
+Nashville Predators , 40
+New Jersey Devils , 51
+New York Islanders , 26
+New York Rangers , 43
+Ottawa Senators , 36
+Philadelphia Flyers , 44
+Phoenix Coyotes , 36
+Pittsburgh Penguins , 45
+San Jose Sharks , 53
+St. Louis Blues , 41
+Tampa Bay Lightning , 24
+Toronto Maple Leafs , 34
+Vancouver Canucks , 45
+Washington Capitals , 50
+Anaheim Ducks , 39
+Atlanta Thrashers , 35
+Boston Bruins , 39
+Buffalo Sabres , 45
+Calgary Flames , 40
+Carolina Hurricanes , 35
+Columbus Blue Jackets , 32
+Chicago Blackhawks , 52
+Colorado Avalanche , 43
+Dallas Stars , 37
+Detroit Red Wings , 44
+Edmonton Oilers , 27
+Florida Panthers , 32
+Los Angeles Kings , 46
+Minnesota Wild , 38
+Montreal Canadiens , 39
+Nashville Predators , 47
+New Jersey Devils , 48
+New York Islanders , 34
+New York Rangers , 38
+Ottawa Senators , 44
+Philadelphia Flyers , 41
+Phoenix Coyotes , 50
+Pittsburgh Penguins , 47
+San Jose Sharks , 51
+St. Louis Blues , 40
+Tampa Bay Lightning , 34
+Toronto Maple Leafs , 30
+Vancouver Canucks , 49
+Washington Capitals , 54
+Anaheim Ducks , 47
+Atlanta Thrashers , 34
+Boston Bruins , 46
+Buffalo Sabres , 43
+Calgary Flames , 41
+Carolina Hurricanes , 40
+Columbus Blue Jackets , 34
+Chicago Blackhawks , 44
+Colorado Avalanche , 30
+Dallas Stars , 42
+Detroit Red Wings , 47
+Edmonton Oilers , 25
+Florida Panthers , 30
+Los Angeles Kings , 46
+Minnesota Wild , 39
+Montreal Canadiens , 44
+Nashville Predators , 44
+New Jersey Devils , 38
+New York Islanders , 30
+New York Rangers , 44
+Ottawa Senators , 32
+Philadelphia Flyers , 47
+Phoenix Coyotes , 43
+Pittsburgh Penguins , 49
+San Jose Sharks , 48
+St. Louis Blues , 38
+Tampa Bay Lightning , 46
+Toronto Maple Leafs , 37
+Vancouver Canucks , 54
+Washington Capitals , 48
+Anaheim Ducks , 34
+Boston Bruins , 49
+Buffalo Sabres , 39
+Calgary Flames , 37
+Carolina Hurricanes , 33
+Columbus Blue Jackets , 29
+Chicago Blackhawks , 45
+Colorado Avalanche , 41
+Dallas Stars , 42
+Detroit Red Wings , 48
+Edmonton Oilers , 32
+Florida Panthers , 38
+Los Angeles Kings , 40
+Minnesota Wild , 35
+Montreal Canadiens , 31
+Nashville Predators , 48
+New Jersey Devils , 48
+New York Islanders , 34
+New York Rangers , 51
+Ottawa Senators , 41
+Philadelphia Flyers , 47
+Phoenix Coyotes , 42
+Pittsburgh Penguins , 51
+San Jose Sharks , 43
+St. Louis Blues , 49
+Tampa Bay Lightning , 38
+Toronto Maple Leafs , 35
+Vancouver Canucks , 51
+Washington Capitals , 42
+Winnipeg Jets , 37

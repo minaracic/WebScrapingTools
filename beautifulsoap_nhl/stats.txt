@@ -1,0 +1,75 @@
+Total avg time >>> 160.007530 
+Total cpu usage 1 >>> 35.270000
+Total cpu usage 2 >>> 29.260000
+Total cpu usage 3 >>> 38.180000
+Total cpu usage 4 >>> 38.290000
+
+Total avg time >>> 15.985408 
+Total cpu usage 1 >>> 32.510000 
+Total cpu usage 2 >>> 26.910000
+Total cpu usage 3 >>> 38.260000
+Total cpu usage 4 >>> 38.350000
+
+Total avg time >>> 16.998228 
+Total cpu usage 1 >>> 30.160000 
+Total cpu usage 2 >>> 23.390000 
+Total cpu usage 3 >>> 31.680000 
+Total cpu usage 4 >>> 28.610000 
+
+Total avg time >>> 17.885110 
+Total cpu usage 1 >>> 34.840000 
+Total cpu usage 2 >>> 27.790000
+Total cpu usage 3 >>> 35.410000
+Total cpu usage 4 >>> 33.520000
+
+//without programs opend
+Total avg time >>> 16.786969 
+Total cpu usage 1 >>> 7.290000  
+Total cpu usage 2 >>> 5.210000  
+Total cpu usage 3 >>> 14.380000 
+Total cpu usage 4 >>> 7.040000  
+
+//without programs opend
+Total avg time >>> 15.213241 
+Total cpu usage 1 >>> 7.510000  
+Total cpu usage 2 >>> 6.020000  
+Total cpu usage 3 >>> 8.320000  
+Total cpu usage 4 >>> 12.230000 
+
+//with 2 threads without parsing
+Latency >>> 13.930384
+Total cpu usage 1 >>> 12.120000
+Total cpu usage 2 >>> 10.810000
+Total cpu usage 3 >>> 12.720000
+Total cpu usage 4 >>> 11.190000
+
+//with 2 threads with parsing
+Latency >>> 14.900301 
+Total cpu usage 1 >>> 7.150000 
+Total cpu usage 2 >>> 7.560000 
+Total cpu usage 3 >>> 8.940000 
+Total cpu usage 4 >>> 9.360000 
+
+//with 4 threads with parsing
+Latency >>> 14.978171 
+Total cpu usage 1 >>> 3.780000 
+Total cpu usage 2 >>> 5.370000
+Total cpu usage 3 >>> 6.120000
+Total cpu usage 4 >>> 7.030000
+
+//with 4 threads without parsing
+Latency >>> 13.825145 
+Total cpu usage 1 >>> 5.970000 
+Total cpu usage 2 >>> 5.600000
+Total cpu usage 3 >>> 6.780000
+Total cpu usage 4 >>> 6.020000
+
+//VALID
+
+//10 iterations with one thread
+Total avg time >>> 15.788212
+Total cpu usage 1 >>> 3.225000
+
+//10 iterations with one thread
+Latency >>> 14.443472 
+Total cpu usage >>> 3.720000 
